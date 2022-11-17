@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4":{"Models\\": "models/"  
+    }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "mustache/mustache": "^2.14",
+        "mongodb/mongodb": "^1.12"
+    }
+}
